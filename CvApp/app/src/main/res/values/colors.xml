@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- * * * * * * * * * * * BASE COLOR * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+
+    <color name="colorPrimary">#0061BF</color>
+    <color name="colorAccent">#0061BF</color>
+    <color name="colorPrimaryDark">#014384</color>
+    <color name="colorOnPrimary">@android:color/white</color>
+
+    <color name="colorSurface">@android:color/white</color>
+
+    <!-- Title -->
+    <color name="colorOnPrimarySurface">#1A2025</color>
+
+    <!-- Text -->
+    <color name="colorOnSurface">#6A6D71</color>
+
+    <!-- * * * * * * * * * * * CUSTOM COLOR * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+    <!-- Page indicator -->
+    <color name="colorPageIndicatorBackground">#E2E2E2</color>
+    <color name="colorPageIndicatorActive">#1A2025</color>
+
+    <!-- Header list item -->
+    <color name="colorHeaderBackground">#E2E2E2</color>
+    <color name="colorHeaderTitle">#5F6368</color>
+
+    <!-- Border -->
+    <color name="colorBorder">#E2E2E2</color>
+    <color name="colorControlNormal">#9E9E9E</color>
+    <color name="colorControlHighlight">#3C4043</color>
+    <color name="colorControlActivated">#5F6368</color>
+    <color name="colorTransparent">#34000000</color>
+
+    <!-- * * * * * * * * * * * BUTTON * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+    <color name="colorButton">#699E3F</color>
+    <color name="colorButtonActive">#265F27</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#0980D7</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#009688</color>
+    <color name="textCardTitle">@color/mater_grey_700</color>
+
+    <color name="black_effective">#2a2a2a</color>
+
+</resources>
